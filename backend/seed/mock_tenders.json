@@ -1,0 +1,338 @@
+[
+  {
+    "id": "ung-unicef-turkana-2026",
+    "title": "Photo Essay: Climate Resilience & Water Access in Turkana",
+    "organization": "UNICEF Kenya Country Office",
+    "organization_domain": "unicef.org",
+    "assignment_type": "Human Interest / Impact Storytelling",
+    "engagement_type": "Short-term Field Mission",
+    "region": "East Africa",
+    "country": "Kenya",
+    "field_site": "Turkana County (Lodwar, Kakuma corridor)",
+    "security_tier": "UN Security Level 2",
+    "on_site": true,
+    "thematic_focus": "Climate & Resilience",
+    "source": "UNGM",
+    "brief": "Produce a high-resolution photo essay documenting community-led climate adaptation and water access programmes across Turkana. Deliverables must foreground beneficiary dignity and informed consent.",
+    "deliverables": [
+      "60-80 edited high-res stills (RAW + graded JPEG)",
+      "12 captioned hero images with IPTC metadata",
+      "Signed informed-consent release for every identifiable subject",
+      "Field caption sheet with names, locations and context"
+    ],
+    "consent_requirements": [
+      "Written informed consent (UNICEF template) for all subjects",
+      "Guardian consent for any subject under 18",
+      "No identifying data for children in protection contexts"
+    ],
+    "budget": { "stated": "USD 9,000 - 14,000 (all-inclusive)", "currency": "USD", "is_scale_based": false },
+    "contact": {
+      "name": "Procurement, UNICEF Kenya",
+      "email": "supply.kenya@unicef.org",
+      "submission_url": "https://www.ungm.org/Public/Notice",
+      "reference_number": "UNICEF-KEN-2026-0417"
+    },
+    "attachments": [
+      { "label": "Terms of Reference (PDF)", "url": "https://www.ungm.org/", "kind": "TOR" },
+      { "label": "UNICEF P11 Form", "url": "https://www.ungm.org/", "kind": "P11" },
+      { "label": "Financial Proposal Template", "url": "https://www.ungm.org/", "kind": "Financial" }
+    ],
+    "posted_at": "2026-08-13T09:00:00+03:00",
+    "deadline": "2026-08-19T17:00:00+03:00",
+    "deadline_timezone": "EAT (UTC+3)",
+    "credibility_score": 0,
+    "verified": true
+  },
+  {
+    "id": "wfp-borno-emergency-2026",
+    "title": "Emergency Food Relief Video Documentary - Borno State",
+    "organization": "World Food Programme Nigeria",
+    "organization_domain": "wfp.org",
+    "assignment_type": "Emergency & Humanitarian Response",
+    "engagement_type": "Short-term Field Mission",
+    "region": "West Africa",
+    "country": "Nigeria",
+    "field_site": "Maiduguri & Monguno LGAs, Borno State",
+    "security_tier": "UN Security Level 3",
+    "on_site": true,
+    "thematic_focus": "Food Security & Agriculture",
+    "source": "ReliefWeb",
+    "brief": "Rapid-deployment video documentary on emergency food distribution to internally displaced populations. Must coordinate with WFP field security and adhere to do-no-harm protocols.",
+    "deliverables": [
+      "One 4-6 min documentary (4K, 10-bit)",
+      "Three 45s vertical social cutdowns",
+      "Raw B-roll archive (min. 45 min graded)",
+      "Multi-language subtitles (English + Hausa + Kanuri)"
+    ],
+    "consent_requirements": [
+      "Do-no-harm review sign-off before publication",
+      "Informed consent for all interviewees",
+      "Security clearance for all filming locations"
+    ],
+    "budget": { "stated": "Fee based on submitted financial proposal", "currency": null, "is_scale_based": true },
+    "contact": {
+      "name": "WFP Nigeria Procurement Unit",
+      "email": "wfp.abuja.procurement@wfp.org",
+      "submission_url": "https://www.wfp.org/procurement",
+      "reference_number": "WFP-NG-RFP-2026-118"
+    },
+    "attachments": [
+      { "label": "Terms of Reference (PDF)", "url": "https://www.wfp.org/", "kind": "TOR" },
+      { "label": "Technical Proposal Template", "url": "https://www.wfp.org/", "kind": "Technical" },
+      { "label": "Financial Proposal Template", "url": "https://www.wfp.org/", "kind": "Financial" }
+    ],
+    "posted_at": "2026-08-15T10:00:00+01:00",
+    "deadline": "2026-08-18T15:00:00+01:00",
+    "deadline_timezone": "WAT (UTC+1)",
+    "credibility_score": 0,
+    "verified": true
+  },
+  {
+    "id": "unhcr-horn-lta-2026",
+    "title": "LTA / Vendor Roster - Visual Documentation, Horn of Africa",
+    "organization": "UNHCR Regional Bureau for East, Horn & Great Lakes",
+    "organization_domain": "unhcr.org",
+    "assignment_type": "LTA / Roster Framework Agreement",
+    "engagement_type": "Multi-Year LTA / Retainer",
+    "region": "East Africa",
+    "country": "Regional (Kenya, Ethiopia, Somalia, South Sudan)",
+    "field_site": null,
+    "security_tier": null,
+    "on_site": true,
+    "thematic_focus": "General Humanitarian",
+    "source": "UNGM",
+    "brief": "Establish a 3-year Long-Term Agreement roster of pre-qualified photography and videography vendors for refugee and displacement documentation across the Horn of Africa.",
+    "deliverables": [
+      "Framework agreement - callable per assignment",
+      "Standardised rate card (day rate + deliverable tiers)",
+      "Portfolio + reference verification",
+      "Compliance with UNHCR visual-storytelling guidelines"
+    ],
+    "consent_requirements": [
+      "UNHCR consent & child-safeguarding certification",
+      "Data-protection compliance for refugee subjects"
+    ],
+    "budget": { "stated": "Framework - rates per call-off", "currency": null, "is_scale_based": true },
+    "contact": {
+      "name": "UNHCR RBEHAGL Supply",
+      "email": "kensu@unhcr.org",
+      "submission_url": "https://www.ungm.org/Public/Notice",
+      "reference_number": "UNHCR-RFP-2026-EHAGL-07"
+    },
+    "attachments": [
+      { "label": "Terms of Reference (PDF)", "url": "https://www.ungm.org/", "kind": "TOR" },
+      { "label": "Vendor Roster Application", "url": "https://www.ungm.org/", "kind": "Other" },
+      { "label": "Portfolio Submission Link", "url": "https://www.ungm.org/", "kind": "Portfolio" }
+    ],
+    "posted_at": "2026-08-08T09:00:00+03:00",
+    "deadline": "2026-09-07T17:00:00+03:00",
+    "deadline_timezone": "EAT (UTC+3)",
+    "credibility_score": 0,
+    "verified": true
+  },
+  {
+    "id": "stc-accra-education-2026",
+    "title": "Education Impact Stories - Girls' Learning, Greater Accra",
+    "organization": "Save the Children International - Ghana",
+    "organization_domain": "savethechildren.net",
+    "assignment_type": "Human Interest / Impact Storytelling",
+    "engagement_type": "Short-term Field Mission",
+    "region": "West Africa",
+    "country": "Ghana",
+    "field_site": "Greater Accra & Central Region schools",
+    "security_tier": null,
+    "on_site": true,
+    "thematic_focus": "Education & Youth",
+    "source": "INGO Direct",
+    "brief": "Capture human-interest impact stories on girls' education and safe-learning programmes. Written case studies paired with portrait photography for donor reporting.",
+    "deliverables": [
+      "6 written impact case studies (600-800 words each)",
+      "40+ edited portrait & classroom stills",
+      "Two 90s social video profiles",
+      "Consent-cleared caption & metadata pack"
+    ],
+    "consent_requirements": [
+      "Save the Children child-safeguarding policy adherence",
+      "Guardian consent for all minors",
+      "No school-location tagging in public assets"
+    ],
+    "budget": { "stated": "GHS 60,000 - 85,000", "currency": "GHS", "is_scale_based": false },
+    "contact": {
+      "name": "SCI Ghana Awards & Procurement",
+      "email": "ghana.procurement@savethechildren.org",
+      "submission_url": "https://ghana.savethechildren.net/tenders",
+      "reference_number": "SCI-GH-2026-MED-22"
+    },
+    "attachments": [
+      { "label": "Terms of Reference (PDF)", "url": "https://savethechildren.net/", "kind": "TOR" },
+      { "label": "Safeguarding Annex", "url": "https://savethechildren.net/", "kind": "Other" },
+      { "label": "Financial Proposal Template", "url": "https://savethechildren.net/", "kind": "Financial" }
+    ],
+    "posted_at": "2026-08-11T09:00:00+00:00",
+    "deadline": "2026-08-28T17:00:00+00:00",
+    "deadline_timezone": "GMT (UTC+0)",
+    "credibility_score": 0,
+    "verified": true
+  },
+  {
+    "id": "undp-senegal-sdg-2026",
+    "title": "SDG Progress Multimedia Kit - Coastal Resilience, Senegal",
+    "organization": "UNDP Senegal",
+    "organization_domain": "undp.org",
+    "assignment_type": "Donor & Advocacy Multimedia Kit",
+    "engagement_type": "Short-term Field Mission",
+    "region": "West Africa",
+    "country": "Senegal",
+    "field_site": "Saint-Louis & Dakar coastline",
+    "security_tier": null,
+    "on_site": true,
+    "thematic_focus": "Climate & Resilience",
+    "source": "UNGM",
+    "brief": "Develop a donor-facing multimedia kit tracking SDG 13/14 progress on coastal erosion and resilience: infographic video, hero photography and a campaign reel.",
+    "deliverables": [
+      "One 2-min animated infographic video (FR + EN)",
+      "30 edited stills for donor reports",
+      "One 60s campaign reel",
+      "Editable project files handed over"
+    ],
+    "consent_requirements": [
+      "Informed consent for all subjects",
+      "Drone footage requires local aviation permits (contractor obtains)"
+    ],
+    "budget": { "stated": "Fee based on UN Consultant Salary Scale", "currency": null, "is_scale_based": true },
+    "contact": {
+      "name": "UNDP Senegal Procurement",
+      "email": "procurement.sn@undp.org",
+      "submission_url": "https://www.ungm.org/Public/Notice",
+      "reference_number": "UNDP-SN-2026-093"
+    },
+    "attachments": [
+      { "label": "Terms of Reference (PDF)", "url": "https://www.undp.org/", "kind": "TOR" },
+      { "label": "UNDP P11 Form", "url": "https://www.undp.org/", "kind": "P11" }
+    ],
+    "posted_at": "2026-08-14T09:00:00+00:00",
+    "deadline": "2026-08-26T17:00:00+00:00",
+    "deadline_timezone": "GMT (UTC+0)",
+    "credibility_score": 0,
+    "verified": true
+  },
+  {
+    "id": "irc-southsudan-gender-2026",
+    "title": "Gender & Protection Field Documentary - Juba & Bentiu",
+    "organization": "International Rescue Committee - South Sudan",
+    "organization_domain": "rescue.org",
+    "assignment_type": "Emergency & Humanitarian Response",
+    "engagement_type": "Short-term Field Mission",
+    "region": "East Africa",
+    "country": "South Sudan",
+    "field_site": "Juba & Bentiu PoC sites",
+    "security_tier": "UN Security Level 4",
+    "on_site": true,
+    "thematic_focus": "Gender & Protection",
+    "source": "ReliefWeb",
+    "brief": "Sensitive field documentary on GBV prevention and women's protection programmes. Requires survivor-centred, do-no-harm production standards throughout.",
+    "deliverables": [
+      "One 5-min protection-sensitive documentary",
+      "Anonymised interview coverage where required",
+      "Photo set (no identifiable survivors without explicit consent)",
+      "English subtitles + transcript"
+    ],
+    "consent_requirements": [
+      "Survivor-centred consent protocol (mandatory)",
+      "GBV do-no-harm review before any release",
+      "Anonymisation / silhouette option offered to every subject"
+    ],
+    "budget": { "stated": null, "currency": null, "is_scale_based": true },
+    "contact": {
+      "name": "IRC South Sudan Supply Chain",
+      "email": "ss.procurement@rescue.org",
+      "submission_url": "https://www.rescue.org/tenders",
+      "reference_number": "IRC-SS-2026-RFP-051"
+    },
+    "attachments": [
+      { "label": "Terms of Reference (PDF)", "url": "https://www.rescue.org/", "kind": "TOR" },
+      { "label": "GBV Media Protocol Annex", "url": "https://www.rescue.org/", "kind": "Other" }
+    ],
+    "posted_at": "2026-08-16T09:00:00+02:00",
+    "deadline": "2026-08-31T17:00:00+02:00",
+    "deadline_timezone": "CAT (UTC+2)",
+    "credibility_score": 0,
+    "verified": true
+  },
+  {
+    "id": "who-drc-health-2026",
+    "title": "Health Emergencies Visual Kit - Ebola Preparedness, DRC",
+    "organization": "World Health Organization - DRC",
+    "organization_domain": "who.int",
+    "assignment_type": "Donor & Advocacy Multimedia Kit",
+    "engagement_type": "Short-term Field Mission",
+    "region": "Southern & Central Africa",
+    "country": "Democratic Republic of the Congo",
+    "field_site": "Goma & North Kivu health zones",
+    "security_tier": "UN Security Level 3",
+    "on_site": true,
+    "thematic_focus": "Health & Emergencies",
+    "source": "Search Crawlers",
+    "brief": "Visual kit documenting community health-worker preparedness and vaccination campaigns. Discovered via Google CSE (TOR PDF); credibility verified against who.int domain.",
+    "deliverables": [
+      "Photo library (50+ stills) of health operations",
+      "One 3-min preparedness explainer (FR)",
+      "Infographic stills for situation reports"
+    ],
+    "consent_requirements": [
+      "Informed consent for health workers & patients",
+      "Infection-prevention compliance on all sites"
+    ],
+    "budget": { "stated": "USD 12,000 (indicative ceiling)", "currency": "USD", "is_scale_based": false },
+    "contact": {
+      "name": "WHO DRC Operations Support",
+      "email": null,
+      "submission_url": "https://www.who.int/about/procurement",
+      "reference_number": "WHO-COD-2026-EPR-14"
+    },
+    "attachments": [
+      { "label": "Terms of Reference (PDF)", "url": "https://www.who.int/", "kind": "TOR" }
+    ],
+    "posted_at": "2026-08-12T09:00:00+02:00",
+    "deadline": "2026-08-23T17:00:00+02:00",
+    "deadline_timezone": "CAT (UTC+2)",
+    "credibility_score": 0,
+    "verified": true
+  },
+  {
+    "id": "oxfam-panafrica-archive-2025",
+    "title": "[ARCHIVED] Pan-Africa Climate Storytelling Retainer 2025",
+    "organization": "Oxfam International",
+    "organization_domain": "oxfam.org",
+    "assignment_type": "LTA / Roster Framework Agreement",
+    "engagement_type": "Multi-Year LTA / Retainer",
+    "region": "Pan-Africa",
+    "country": "Multi-country (Pan-Africa)",
+    "field_site": null,
+    "security_tier": null,
+    "on_site": false,
+    "thematic_focus": "Climate & Resilience",
+    "source": "INGO Direct",
+    "brief": "Historical retainer roster for climate storytelling across Oxfam's Pan-Africa programmes. Retained for competitive research, budget benchmarking and recurring-cycle intelligence.",
+    "deliverables": [
+      "Retainer framework (annual call-offs)",
+      "Benchmark rate card (archived)"
+    ],
+    "consent_requirements": ["Oxfam ethical-imagery guidelines"],
+    "budget": { "stated": "EUR 40,000 - 90,000 / year (historical)", "currency": "EUR", "is_scale_based": false },
+    "contact": {
+      "name": "Oxfam Global Procurement (closed)",
+      "email": null,
+      "submission_url": "https://www.oxfam.org/en/procurement",
+      "reference_number": "OXF-2025-PANAF-MED-03"
+    },
+    "attachments": [
+      { "label": "Terms of Reference (PDF)", "url": "https://www.oxfam.org/", "kind": "TOR" }
+    ],
+    "posted_at": "2025-12-20T09:00:00+01:00",
+    "deadline": "2026-07-08T17:00:00+01:00",
+    "deadline_timezone": "CET (UTC+1)",
+    "credibility_score": 0,
+    "verified": true
+  }
+]

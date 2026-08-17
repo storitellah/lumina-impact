@@ -1,0 +1,25 @@
+# LUMINA Impact — backend (FastAPI orchestration + scraping pipeline)
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+pydantic==2.7.4
+pydantic-settings==2.3.4
+SQLAlchemy==2.0.31
+psycopg[binary]==3.2.1           # PostgreSQL driver
+alembic==1.13.2                  # migrations
+
+# Scraping pipeline
+httpx==0.27.0
+beautifulsoup4==4.12.3
+playwright==1.45.0               # UNGM / JS-heavy portals
+lxml==5.2.2
+
+# PDF / DOCX text extraction
+pdfplumber==0.11.1
+python-docx==1.1.2
+
+# Job queue (Redis-backed)
+redis==5.0.7
+rq==1.16.2                       # Python analogue of BullMQ workers
+
+# Notifications
+jinja2==3.1.4                    # email/report templating
