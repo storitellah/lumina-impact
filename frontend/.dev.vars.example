@@ -1,0 +1,5 @@
+# Local Cloudflare runtime vars for `npm run cf:preview` (workerd).
+# Copy to `.dev.vars` (gitignored). For NEXT_PUBLIC_* these must ALSO be set at
+# build time — put them in the shell / CI env, not just here.
+NEXT_PUBLIC_API_BASE=
+NEXT_PUBLIC_DISPATCH_EMAIL=hello@storitellah.com

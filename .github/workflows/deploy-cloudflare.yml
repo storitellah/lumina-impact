@@ -1,0 +1,46 @@
+name: Deploy Frontend to Cloudflare
+
+# Builds the Next.js frontend with the OpenNext Cloudflare adapter and deploys
+# it to Cloudflare Workers. Requires two repo secrets:
+#   CLOUDFLARE_API_TOKEN  — token with "Edit Cloudflare Workers" permission
+#   CLOUDFLARE_ACCOUNT_ID — your Cloudflare account id
+#
+# Alternatively, skip this workflow entirely and use Cloudflare's own
+# Git-integrated "Workers Builds" (see DEPLOYMENT.md) — it runs the same
+# cf:deploy step on Cloudflare's runners.
+
+on:
+  push:
+    branches: ["main"]
+    paths: ["frontend/**", ".github/workflows/deploy-cloudflare.yml"]
+  workflow_dispatch: {}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend
+    env:
+      # NEXT_PUBLIC_* are inlined at build time — set them here.
+      NEXT_PUBLIC_API_BASE: ${{ vars.NEXT_PUBLIC_API_BASE }}
+      NEXT_PUBLIC_DISPATCH_EMAIL: ${{ vars.NEXT_PUBLIC_DISPATCH_EMAIL || 'hello@storitellah.com' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: frontend/package-lock.json
+
+      - run: npm ci
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Build & deploy (OpenNext → Cloudflare Workers)
+        run: npm run cf:deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

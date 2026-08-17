@@ -10,7 +10,7 @@ LUMINA Impact monitors, scrapes, verifies and classifies visual‑media opportun
 
 ```
 lumina-impact/
-├── frontend/        Next.js 14 (App Router) · TypeScript · Tailwind · Framer Motion — Apple‑HIG UI
+├── frontend/        Next.js 15 (App Router) · TypeScript · Tailwind · Framer Motion — Apple‑HIG UI
 ├── backend/         FastAPI · SQLAlchemy · BullMQ‑style job schema · scraping pipeline
 └── README.md
 ```
@@ -30,6 +30,9 @@ The frontend ships with a **mock dataset of 8 realistic impact tenders** (`lib/m
 served through an internal API route (`app/api/opportunities/route.ts`) so the terminal is fully
 interactive without a running backend. Point it at the live backend by setting
 `NEXT_PUBLIC_API_BASE`.
+
+**Deploying?** See [`DEPLOYMENT.md`](./DEPLOYMENT.md) — the frontend deploys to
+**Cloudflare Workers** via the OpenNext adapter (`npm run cf:deploy`).
 
 Key surfaces:
 

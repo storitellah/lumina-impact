@@ -45,3 +45,10 @@ yarn-error.log*
 
 # TS build info
 frontend/tsconfig.tsbuildinfo
+
+# Cloudflare / OpenNext / Wrangler
+frontend/.open-next/
+frontend/.vercel/
+frontend/.wrangler/
+frontend/.dev.vars
+.wrangler/
